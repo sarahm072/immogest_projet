@@ -36,20 +36,20 @@ input, select {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
-button a{
-    color: aliceblue;
-    text-decoration: none;
-}
-button {
+a.btn {
+    display: inline-block;
     background: rgb(0, 63, 131);
     color: white;
+    text-decoration: none;
     border: none;
     margin: 20px;
     padding: 10px;
     width: 50%;
+    text-align: center;
     cursor: pointer;
     border-radius: 5px;
 }
+
 
 button:hover {
     background: rgb(23, 123, 245);
