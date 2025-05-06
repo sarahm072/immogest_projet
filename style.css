@@ -36,7 +36,10 @@ input, select {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
-
+button a{
+    color: aliceblue;
+    text-decoration: none;
+}
 button {
     background: rgb(0, 63, 131);
     color: white;
